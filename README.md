@@ -1,7 +1,7 @@
 ## Oi pessoa eu sou o Gracione!
 <div align="center">
   <a href="https://github.com/gracione">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gracione&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gracione&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracione&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
