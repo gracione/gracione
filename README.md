@@ -18,7 +18,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/gracione-ferreira-silva-904939229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gracione-ferreira-silva-904939229/" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://media-exp1.licdn.com/dms/image/C4D03AQGpNy48NQGu_Q/profile-displayphoto-shrink_800_800/0/1658312722590?e=1666224000&v=beta&t=AH4xl7uePwalQnWILRgP0eHCZ3d5d9Q1gtjkEvePMaY)" target="_blank"></a> 
  
   ![Snake animation](https://github.com/gracione/gracione/blob/output/github-contribution-grid-snake.svg)
  
