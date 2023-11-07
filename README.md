@@ -8,10 +8,3 @@
   <img align="center" alt="Gracione-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gracione" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/950/950018.png">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/gracione-ferreira-silva-904939229/" target="_blank"></a> 
- 
-</div>
