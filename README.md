@@ -1,4 +1,4 @@
-## Full-Stack Developer. JavaScript | React | PHP | Laravel | Zend
+## JavaScript | React | PHP | Laravel | Zend
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gracione-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
